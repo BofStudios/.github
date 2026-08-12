@@ -52,17 +52,7 @@ Welcome to our tech innovation hub! We're a passionate team dedicated to creatin
 
       ---
 
-      ## 🌟 Featured Projects
 
-      ### 🔒 [Sherlock](https://github.com/BofStudios/sherlock)
-      *Face-first OSINT for Windows. Recognises faces offline against a built-in Wikipedia/Wikidata index, then resolves them to verified social accounts.*
-      - **Tech Stack**: TypeScript, OSINT, Desktop Application
-      - - **Status**: Active Development
-       
-        - ### 🌍 [Terrafeed](https://github.com/BofStudios/terrafeed)
-        - *Global situational awareness on the desktop – twelve live layers on one offline map*
-        - - **Tech Stack**: TypeScript, Cartography, Real-time Data
-          - - **Status**: Active Development
            
             - ---
 
