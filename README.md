@@ -1,74 +1,132 @@
 <div align="center">
 
-# 🌌 B O F — S T U D I O S 
+```text
+██████╗  ██████╗ ███████╗    ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗ ███████╗
+██╔══██╗██╔═══██╗██╔════╝    ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗██╔════╝
+██████╦╝██║   ██║█████╗      ███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║███████╗
+██╔══██╗██║   ██║██╔══╝      ╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║╚════██║
+██████╦╝╚██████╔╝██║         ███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝███████║
+╚═════╝  ╚═════╝ ╚═╝         ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝ ╚══════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+BOF+Studios...;Building+Next-Gen+Software...;Gamifying+Technology...;Pioneering+the+Future...;System.out.println(%22Hello+World!%22)" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=WELCOME+TO+THE+NEXUS;ARCHITECTING+THE+FUTURE;CODE.+COMPILE.+CONQUER." alt="Main Animation" />
 
-**`[ INNOVATION_HUB // EST. 2026 ]`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=FF0055&center=true&vCenter=true&width=600&lines=>>>+Initializing+Core+Systems...;>>>+Loading+AI+Modules...;>>>+Establishing+Database+Connection...;>>>+System+Ready." alt="Sub Animation" />
 
-*We are a collective of developers, designers, and tech enthusiasts pushing the boundaries of what's possible. From interactive AI tools to scalable ecosystems, we build the future line by line.*
+<br>
 
-<br/>
+**`[ INNOVATION_HUB // EST. 2026 // STATUS: ONLINE ]`**
 
 </div>
 
 ---
 
-## 🎯 ＥＸＥＣＵＴＩＶＥ ＳＵＭＭＡＲＹ
+## 💠 ＥＸＥＣＵＴＩＶＥ ＳＵＭＭＡＲＹ
 
 <details open>
-<summary><b> ⚡ Our Core Mission </b> <i>(Click to expand/collapse)</i></summary>
-<br/>
-At <b>BOF Studios</b>, we believe that technology should not only solve complex problems but also be accessible and engaging. We specialize in creating software that bridges the gap between high-level technology (like Artificial Intelligence) and the end-user. 
+<summary><b> ⚡ DIRECTIVE & VISION </b> <i>(Click to expand/collapse)</i></summary>
+<br>
 
-We don't just write code; we architect experiences. Our current focus involves taking complex subjects and turning them into gamified, interactive ecosystems where users can learn, build, and grow.
+At **BOF Studios**, we operate at the intersection of complex software engineering and highly engaging user experiences. We don't just write scripts; we build scalable ecosystems. Our philosophy revolves around demystifying advanced technologies (like Artificial Intelligence) by translating them into accessible, gamified, and highly optimized platforms. 
+
+We are currently balancing rigorous academic goals—such as intense university entrance preparations—with the architectural demands of running a next-generation software studio.
 </details>
 
 <details>
-<summary><b> 🚀 Studio Philosophy </b> <i>(Click to expand/collapse)</i></summary>
-<br/>
+<summary><b> 🧬 DEVELOPMENT PHILOSOPHY </b> <i>(Click to expand/collapse)</i></summary>
+<br>
 
-*   **Clean Code:** Readability and maintainability over clever hacks.
-*   **User-Centric Design:** Every pixel and every function must serve a purpose.
-*   **Continuous Learning:** The tech landscape evolves rapidly, and so do we.
-*   **Open Source First:** We believe in giving back to the community that built us.
+*   **Modular Architecture:** Everything we build is designed to scale.
+*   **AI-Assisted Workflows:** We heavily leverage AI to rapidly prototype UI layouts, debug complex logic, and accelerate our development cycles.
+*   **Relentless Optimization:** From server response times to the exact microsecond a frame renders, performance is our priority.
 </details>
 
 ---
 
-## 💻 ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ
+## 🚀 ＦＬＡＧＳＨＩＰ ＰＲＯＪＥＣＴＳ & Ｒ＆Ｄ
 
-*Instead of relying on broken external images, here is our solid technology matrix:*
+Our repositories are categorized into strict divisions. Here is what we are currently compiling in the background:
 
-| Domain | Core Technologies & Tools |
-| :--- | :--- |
-| **🌐 Frontend** | <kbd>React.js</kbd> <kbd>TypeScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3/Tailwind</kbd> |
-| **⚙️ Backend** | <kbd>Node.js</kbd> <kbd>Python</kbd> <kbd>Express</kbd> <kbd>REST APIs</kbd> |
-| **🗄️ Database** | <kbd>PostgreSQL</kbd> <kbd>MongoDB</kbd> <kbd>Redis</kbd> |
-| **🧠 AI & Data** | <kbd>OpenAI API</kbd> <kbd>Claude</kbd> <kbd>Machine Learning</kbd> |
-| **🛠️ DevOps & Tools** | <kbd>Git</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>VS Code</kbd> |
+### 🟢 `[PROJECT: NEURAL_LINGO]`
+> **Status:** Active Development | **Domain:** AI & EdTech
+> A highly interactive, Duolingo-style mobile application designed to teach Artificial Intelligence concepts. We are engineering a gamified micro-learning loop, focusing heavily on modern UI/UX principles to make learning complex algorithms feel like leveling up in a game.
 
----
-
-## 🔭 ＦＬＡＧＳＨＩＰ ＩＮＩＴＩＡＴＩＶＥＳ
-
-We are currently working on several stealth and open-source projects. Here is a sneak peek into our lab:
-
-### 1. Interactive AI Learning Platform `[In Development]`
-> A highly interactive, Duolingo-style mobile and web application designed to teach complex Artificial Intelligence concepts through gamified micro-lessons. We are combining modern UI principles with robust backend logic to make learning AI feel like a game.
-
-### 2. Studio Dev-Tools `[Planning Phase]`
-> A suite of CLI (Command Line Interface) utilities and automation scripts built in Python to help developers bootstrap their projects faster, manage environments, and automate repetitive tasks.
-
-### 3. Open-Source Ecosystem `[Ongoing]`
-> Consistently contributing to community libraries, fixing bugs, and creating public repositories that serve as educational boilerplates for junior developers.
+### 🟣 `[DIVISION: GAME_MODS & QA]`
+> **Status:** Active R&D | **Domain:** Engine Optimization & Troubleshooting
+> We don't just play games; we deconstruct them. Our R&D division actively works on game modding, QA testing, and core engine troubleshooting. 
+> *   **Crimson Desert:** Currently analyzing strict engine behavior, specifically isolating triggers and memory states that cause instantaneous crashes upon pressing the `ESC` key.
+> *   **Age of Empires 4:** Engineering and optimizing 2-player cooperative PvE (Player vs Environment) setups for seamless tactical gameplay and family coordination.
 
 ---
 
-## 🗺️ ＳＴＵＤＩＯ ＲＯＡＤＭＡＰ
+## 🛠️ ＴＥＣＨＮＯＬＯＧＹ ＭＡＴＲＩＸ
+
+*Operating without external dependencies. This is our core stack:*
+
+```diff
+! FRONTEND_NEXUS
++ React.js       # Component-driven architecture
++ TypeScript     # Strict type-safety protocols
++ Tailwind CSS   # Rapid UI styling
+
+! BACKEND_CORE
++ Node.js        # V8 Engine runtime
++ Python         # Data parsing & automation
++ Express/REST   # API communication layers
+
+! CLOUD_&_DATABASE
++ PostgreSQL     # Relational data integrity
++ Docker         # Containerized deployments
++ Git/CLI        # Version control mastery
+```
+
+---
+
+## 🦾 ＳＴＵＤＩＯ ＣＵＬＴＵＲＥ & ＰＥＲＦＯＲＭＡＮＣＥ
+
+We believe that **Peak Code requires Peak Physical Condition.** Developing cutting-edge software and preparing for university demands an elite level of discipline.
+
+```diff
+@@ BOF STUDIOS PROTOCOL: THE 6-DAY CYCLE @@
+```
+
+*   **🏀 Physical Kinetics:** We maintain a rigorous, near 6-day-a-week physical training and basketball regimen. A highly oxygenated brain writes cleaner code.
+*   **🥩 Nutritional Architecture:** Just as our apps need optimized servers, our developers need optimized fuel. We operate on strict, high-protein nutrition plans—targeting an absolute minimum of **120 grams of protein daily** to build muscle, sustain energy, and crush marathon coding sessions.
+*   **🧠 Mental Bandwidth:** We balance extreme focus hours with deep immersion in complex gaming worlds, drawing UI/UX inspiration directly from the titles we mod and play.
+
+---
+
+## 📡 ＴＥＲＭＩＮＡＬ ＬＯＧＳ & ＲＯＡＤＭＡＰ
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=3000&color=00FF00&center=false&vCenter=true&width=800&lines=>+npm+run+roadmap;>+Compiling+milestones...;>+Phase+1:+Architecture+[COMPLETED];>+Phase+2:+Gamified+App+UI+[IN_PROGRESS];>+Phase+3:+Beta+Launch+[UPCOMING]" alt="Terminal Animation" />
 
 ```text
-[ ■■■■■■■■■■ ] 100% - Foundation & Architecture Planning
-[ ■■■■■■■□□□ ]  70% - Gamified App Prototyping & UI/UX
-[ ■■■■□□□□□□ ]  40% - Backend API Integration
-[ □□□□□□□□□□ ]   0% - Beta Testing & Community Release
+[████████████████░░░░] 80% - Core App Layouts & Routing
+[██████████░░░░░░░░░░] 50% - Game Engine Crash Analytics
+[██████░░░░░░░░░░░░░░] 30% - API Endpoints & Database Auth
+[░░░░░░░░░░░░░░░░░░░░]  0% - Public Open Source Release
+```
+
+---
+
+## 🌐 ＣＯＮＮＥＣＴＩＯＮ ＰＯＲＴＡＬ
+
+```bash
+#!/bin/bash
+# Ping BOF Studios for collaborations, open-source contributions, or just to talk tech.
+
+SERVER_STATUS="Awaiting incoming connections..."
+CONTACT_METHOD="Drop a star, fork a repo, or open an issue."
+
+echo $SERVER_STATUS
+echo $CONTACT_METHOD
+
+# End of line.
+```
+
+<div align="center">
+
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=5000&color=808080&center=true&vCenter=true&width=400&lines=EOF+_+Connection+Terminated." alt="Footer Animation" />
+
+</div>
