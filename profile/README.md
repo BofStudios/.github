@@ -1,70 +1,74 @@
 <div align="center">
 
-# BOF Studios
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C5CFF,100:35E0E0&height=200&section=header&text=BOF%20STUDIOS&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-**Desktop software that works without an account.**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2600&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Desktop+software.;No+account+required.;Open+source%2C+MIT+licensed." alt="Typing SVG" />
 
-Three apps. None of them ask you to sign up, none of them phone home, and each
-one does the thing it does on your own machine.
+<br>
+
+[![Follow](https://img.shields.io/github/followers/BofStudios?label=Follow&style=social)](https://github.com/BofStudios)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bof_labs)
+[![Site](https://img.shields.io/badge/bofstudios.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://bofstudios.dev)
+[![Mail](https://img.shields.io/badge/Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bofaicontact@gmail.com)
 
 </div>
 
----
+Three real, working desktop apps. Not demos — installers you can download today,
+source you can read today.
 
-### [Parley Agent](https://github.com/BofStudios/parley-agent) · a messenger for AI coworkers
+<br>
 
-You write who a bot **is** — a name, a face, a personality. The router decides
-which model runs it, per message, so a bot you write today keeps working after
-the model behind it is retired.
+<table width="100%">
+<tr><td width="46">🟣</td><td>
 
-Address a message to one bot or to several. A group thread is a real group: each
-participant answers in turn, having read what its colleagues just said. Fifty-two
-coworkers ship with it, across seven departments; rename them, retune them, or
-start from nothing.
+**[Parley Agent](https://github.com/BofStudios/parley-agent)** — a messenger for AI coworkers.
+Write who a bot *is*; the router picks which model runs it, per message. Address
+one bot or several — a group thread answers in turn, each one reading what its
+colleagues just said.
+<br>`Tauri` `TypeScript` `Rust` · macOS · Windows
 
-Bring an API key, or point it at a local Ollama and pay nothing at all.
+</td></tr>
+<tr><td>🌍</td><td>
 
-`Tauri` `TypeScript` · macOS · Windows
+**[Terrafeed](https://github.com/BofStudios/terrafeed)** — the world on one map.
+Twelve live layers — quakes, hazards, 31 news desks, military aviation, vessels,
+satellites — on a single offline dark map. No API key for any of it.
+<br>`Tauri` `TypeScript` `Rust` · macOS · Windows · Linux
 
----
+</td></tr>
+<tr><td>🔍</td><td>
 
-### [Terrafeed](https://github.com/BofStudios/terrafeed) · the world on one map
+**[Sherlock](https://github.com/BofStudios/sherlock)** — face-first OSINT, fully offline.
+Recognises faces against a built-in Wikipedia/Wikidata index, resolves them to
+verified accounts. No account, no API key, no credits.
+<br>`Electron` `Next.js` `TypeScript` · macOS · Windows
 
-Twelve live layers — earthquakes, hazards, humanitarian alerts, severe weather,
-news from 31 regional desks, military aviation, vessels, satellites, markets —
-drawn on a single offline dark map.
+</td></tr>
+</table>
 
-Alerting waits for independent sources to agree before it interrupts you: one
-outlet repeating itself is not corroboration. The basemap is bundled geometry,
-not tiles, so there is no map account and no tile server between you and the
-world.
+<br>
 
-Every layer works with no API key.
+> [!NOTE]
+> **Everything here is MIT licensed and builds from source.** The desktop
+> installers are unsigned — a code-signing certificate costs money these
+> projects don't make yet — so macOS will call them "damaged" on first open.
+> They aren't; each repo's README says exactly what to run. Or skip the binary
+> and build it yourself: the same commands CI uses are right there in every repo.
 
-`Tauri` `TypeScript` · macOS · Windows · Linux
-
----
-
-### [Sherlock](https://github.com/BofStudios/sherlock) · face-first OSINT
-
-Recognises faces offline against a built-in Wikipedia/Wikidata index, then
-resolves them to verified social accounts. No account, no API key, no credits.
-
-Every match shows its descriptor distance, so you judge the confidence rather
-than trusting a label. That is deliberate: an early build called a private
-individual a head of state, and the fix was to stop hiding the number.
-
-`Electron` `Next.js` · macOS · Windows
-
----
+<br>
 
 <div align="center">
 
-**Everything here is MIT licensed and builds from source.**
+### Built with
 
-The desktop builds are unsigned — a code-signing certificate costs money these
-projects do not make. macOS will call an unsigned app "damaged"; it isn't, and
-each repo's install guide says exactly what to run. Or build it yourself: the
-source is all there, and the same commands CI uses are in every README.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35E0E0,50:7C5CFF,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
