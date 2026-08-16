@@ -38,7 +38,7 @@ satellites — on a single offline dark map. No API key for any of it.
 </td></tr>
 <tr><td>🔍</td><td>
 
-**[Sherlock](https://github.com/BofStudios/sherlock)** — face-first OSINT, fully offline.
+**[BOF OSINT](https://github.com/BofStudios/bof-osint)** — face-first OSINT, fully offline.
 Recognises faces against a built-in Wikipedia/Wikidata index, resolves them to
 verified accounts. No account, no API key, no credits.
 <br>`Electron` `Next.js` `TypeScript` · macOS · Windows
